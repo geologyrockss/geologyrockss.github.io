@@ -4,4 +4,4 @@ title: "Home"
 
 ![](images/me.jpg){fig-align="center" width="213"}
 
-My name is Michael Landeros I am a computer science major and I never learned how to love.
+My name is Michael Landeros. I am a first generation student majoring in Computer Science at CSUCI. My hometown is Oxnard, California. I like music, movies, video games, books, and art. Creative things and creative people are what I enjoy most in life.
