@@ -1,14 +1,15 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: "."
 
 website:
-  title: "geologyrockss.github.io"
+  title: "me website"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - resume.qmd
 
 format:
   html:
