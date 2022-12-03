@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "geologyrockss.github.io"
+  title: "Michael Landeros"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - resume.qmd
 
 format:
   html:
