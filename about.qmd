@@ -2,6 +2,6 @@
 title: "About"
 ---
 
-![](images/along_the_overlook-glenn_dean-legacy_gallery-1024x768.jpg){fig-align="center"}
+![](images/along_the_overlook-glenn_dean-legacy_gallery-1024x768.jpg){fig-align="center" width="342"}
 
 I like music, movies, video games, books, and art. Creative things and creative people are what I enjoy most in life. I like experiencing new things whenever I can, especially travelling.
