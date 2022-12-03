@@ -2,7 +2,6 @@
 title: "Resume"
 ---
 
-
 **EDUCATION**\
 
 **August 2022 - Present**
@@ -15,9 +14,11 @@ Full-Time Student 14 units
 
 -   Transferred from Ventura College
 
+**WORK**
+
 **October 2022- Present**
 
-**CSUCI           Camarillo, CA**
+**California State University Channel Islands                    Camarillo, CA**
 
 Research Assistant
 
