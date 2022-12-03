@@ -1,5 +1,5 @@
 ---
-title: "geologyrockss.github.io"
+title: "Home"
 ---
 
 ![](images/me.jpg){fig-align="center" width="213"}
